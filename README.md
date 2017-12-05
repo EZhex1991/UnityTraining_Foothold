@@ -1,0 +1,2 @@
+# UnityTraining_Foothold
+之前见过的一个小游戏，用unity做了个demo
